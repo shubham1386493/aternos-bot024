@@ -29,9 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 900
+      "repeat-delay": 900,
       "messages": [
-          "I KEEP SMP 24/7 MADE BY SHUBHAM"
+          "I KEEP SMP 24/7 MADE BY SHUBHAM",
+          "I LOVE REM AND REZE BTW",
+           " I AM A BIG BLACK NGA"
       ]
     },
     "chat-log": true,
